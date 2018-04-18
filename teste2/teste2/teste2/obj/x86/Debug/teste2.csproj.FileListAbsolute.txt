@@ -1,0 +1,6 @@
+/home/everton/programacao/csharp/teste2/teste2/teste2/bin/Debug/teste2.exe
+/home/everton/programacao/csharp/teste2/teste2/teste2/bin/Debug/teste2.pdb
+/home/everton/programacao/csharp/teste2/teste2/teste2/obj/x86/Debug/teste2.csprojResolveAssemblyReference.cache
+/home/everton/programacao/csharp/teste2/teste2/teste2/obj/x86/Debug/teste2.csproj.CoreCompileInputs.cache
+/home/everton/programacao/csharp/teste2/teste2/teste2/obj/x86/Debug/teste2.exe
+/home/everton/programacao/csharp/teste2/teste2/teste2/obj/x86/Debug/teste2.pdb
