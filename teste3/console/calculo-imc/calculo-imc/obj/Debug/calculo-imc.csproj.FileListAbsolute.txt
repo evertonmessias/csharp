@@ -1,0 +1,7 @@
+C:\Users\everton\Documents\Visual Studio 2008\Projects\calculo-imc\calculo-imc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\everton\Documents\Visual Studio 2008\Projects\calculo-imc\calculo-imc\bin\Debug\calculo-imc.exe
+C:\Users\everton\Documents\Visual Studio 2008\Projects\calculo-imc\calculo-imc\bin\Debug\calculo-imc.pdb
+C:\Users\everton\Documents\Visual Studio 2008\Projects\calculo-imc\calculo-imc\obj\Debug\calculo-imc.exe
+C:\Users\everton\Documents\Visual Studio 2008\Projects\calculo-imc\calculo-imc\obj\Debug\calculo-imc.pdb
+C:\Users\everton\Downloads\testes\console\calculo-imc\calculo-imc\obj\Debug\calculo-imc.exe
+C:\Users\everton\Downloads\testes\console\calculo-imc\calculo-imc\obj\Debug\calculo-imc.pdb

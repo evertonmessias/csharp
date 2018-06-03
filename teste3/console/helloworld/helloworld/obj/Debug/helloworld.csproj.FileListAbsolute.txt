@@ -1,0 +1,5 @@
+C:\Users\everton\Documents\Visual Studio 2008\Projects\helloworld\helloworld\bin\Debug\helloworld.exe
+C:\Users\everton\Documents\Visual Studio 2008\Projects\helloworld\helloworld\bin\Debug\helloworld.pdb
+C:\Users\everton\Documents\Visual Studio 2008\Projects\helloworld\helloworld\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\everton\Documents\Visual Studio 2008\Projects\helloworld\helloworld\obj\Debug\helloworld.exe
+C:\Users\everton\Documents\Visual Studio 2008\Projects\helloworld\helloworld\obj\Debug\helloworld.pdb

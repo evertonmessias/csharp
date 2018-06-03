@@ -1,0 +1,10 @@
+C:\Users\everton\Documents\Visual Studio 2008\Projects\testeMYSQL\testeMYSQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\everton\Documents\Visual Studio 2008\Projects\testeMYSQL\testeMYSQL\obj\Debug\testeMYSQL.Form1.resources
+C:\Users\everton\Documents\Visual Studio 2008\Projects\testeMYSQL\testeMYSQL\obj\Debug\testeMYSQL.Properties.Resources.resources
+C:\Users\everton\Documents\Visual Studio 2008\Projects\testeMYSQL\testeMYSQL\obj\Debug\testeMYSQL.csproj.GenerateResource.Cache
+C:\Users\everton\Documents\Visual Studio 2008\Projects\testeMYSQL\testeMYSQL\bin\Debug\testeMYSQL.exe
+C:\Users\everton\Documents\Visual Studio 2008\Projects\testeMYSQL\testeMYSQL\bin\Debug\testeMYSQL.pdb
+C:\Users\everton\Documents\Visual Studio 2008\Projects\testeMYSQL\testeMYSQL\obj\Debug\testeMYSQL.exe
+C:\Users\everton\Documents\Visual Studio 2008\Projects\testeMYSQL\testeMYSQL\obj\Debug\testeMYSQL.pdb
+C:\Users\everton\Downloads\testes\formulario\testeMYSQL\testeMYSQL\obj\Debug\testeMYSQL.exe
+C:\Users\everton\Downloads\testes\formulario\testeMYSQL\testeMYSQL\obj\Debug\testeMYSQL.pdb

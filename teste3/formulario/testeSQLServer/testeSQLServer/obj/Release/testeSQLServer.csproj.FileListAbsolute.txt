@@ -1,0 +1,4 @@
+C:\Users\everton\Documents\Visual Studio 2008\Projects\testeSQLServer\testeSQLServer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\everton\Documents\Visual Studio 2008\Projects\testeSQLServer\testeSQLServer\obj\Release\testeSQLServer.Form1.resources
+C:\Users\everton\Documents\Visual Studio 2008\Projects\testeSQLServer\testeSQLServer\obj\Release\testeSQLServer.Properties.Resources.resources
+C:\Users\everton\Documents\Visual Studio 2008\Projects\testeSQLServer\testeSQLServer\obj\Release\testeSQLServer.csproj.GenerateResource.Cache

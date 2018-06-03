@@ -1,0 +1,18 @@
+C:\Users\everton\Documents\Visual Studio 2008\Projects\calculo_imc\calculo_imc\bin\Debug\calculo_imc.exe
+C:\Users\everton\Documents\Visual Studio 2008\Projects\calculo_imc\calculo_imc\bin\Debug\calculo_imc.pdb
+C:\Users\everton\Documents\Visual Studio 2008\Projects\calculo_imc\calculo_imc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\everton\Documents\Visual Studio 2008\Projects\calculo_imc\calculo_imc\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\everton\Documents\Visual Studio 2008\Projects\calculo_imc\calculo_imc\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\everton\Documents\Visual Studio 2008\Projects\calculo_imc\calculo_imc\obj\Debug\calculo_imc.csproj.GenerateResource.Cache
+C:\Users\everton\Documents\Visual Studio 2008\Projects\calculo_imc\calculo_imc\obj\Debug\calculo_imc.exe
+C:\Users\everton\Documents\Visual Studio 2008\Projects\calculo_imc\calculo_imc\obj\Debug\calculo_imc.pdb
+C:\Users\everton\MEGA\08 - C C++C#\C#\testes\calculo_imc\calculo_imc\obj\Debug\calculo_imc.exe
+C:\Users\everton\MEGA\08 - C C++C#\C#\testes\calculo_imc\calculo_imc\obj\Debug\calculo_imc.pdb
+C:\Users\everton\MEGA\08 - C C++C#\C#\testes\calculo_imc\calculo_imc\bin\Debug\calculo_imc.exe
+C:\Users\everton\MEGA\08 - C C++C#\C#\testes\calculo_imc\calculo_imc\bin\Debug\calculo_imc.pdb
+C:\Users\everton\MEGA\08 - C C++C#\C#\testes\calculo_imc\calculo_imc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\everton\MEGA\08 - C C++C#\C#\testes\calculo_imc\calculo_imc\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\everton\MEGA\08 - C C++C#\C#\testes\calculo_imc\calculo_imc\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\everton\MEGA\08 - C C++C#\C#\testes\calculo_imc\calculo_imc\obj\Debug\calculo_imc.csproj.GenerateResource.Cache
+C:\Users\everton\Downloads\testes\formulario\calculo_imc\calculo_imc\obj\Debug\calculo_imc.exe
+C:\Users\everton\Downloads\testes\formulario\calculo_imc\calculo_imc\obj\Debug\calculo_imc.pdb

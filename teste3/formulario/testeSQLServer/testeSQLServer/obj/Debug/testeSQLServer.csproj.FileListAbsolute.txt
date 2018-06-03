@@ -1,0 +1,8 @@
+C:\Users\everton\Documents\Visual Studio 2008\Projects\testeSQLServer\testeSQLServer\bin\Debug\testeSQLServer.exe
+C:\Users\everton\Documents\Visual Studio 2008\Projects\testeSQLServer\testeSQLServer\bin\Debug\testeSQLServer.pdb
+C:\Users\everton\Documents\Visual Studio 2008\Projects\testeSQLServer\testeSQLServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\everton\Documents\Visual Studio 2008\Projects\testeSQLServer\testeSQLServer\obj\Debug\testeSQLServer.Form1.resources
+C:\Users\everton\Documents\Visual Studio 2008\Projects\testeSQLServer\testeSQLServer\obj\Debug\testeSQLServer.Properties.Resources.resources
+C:\Users\everton\Documents\Visual Studio 2008\Projects\testeSQLServer\testeSQLServer\obj\Debug\testeSQLServer.csproj.GenerateResource.Cache
+C:\Users\everton\Documents\Visual Studio 2008\Projects\testeSQLServer\testeSQLServer\obj\Debug\testeSQLServer.exe
+C:\Users\everton\Documents\Visual Studio 2008\Projects\testeSQLServer\testeSQLServer\obj\Debug\testeSQLServer.pdb
